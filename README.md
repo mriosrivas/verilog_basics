@@ -15,4 +15,4 @@ Implementar el circuito que se muestra en la imagen. Para ello se dan dos archiv
 
 
 
-Image ![Image](Inc_with_FF.png)
+![Image](Inc_with_FF.png)
