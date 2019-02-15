@@ -12,4 +12,7 @@ Cada uno con su respectivo Testbench.
 
 ### Tarea:
 Implementar el circuito que se muestra en la imagen. Para ello se dan dos archivos: file.v contiene la plantilla del modulo top a generar y tb_file.v el testbench del modulo top que usted desarrollará.
+
+
+
 Image ![Image](Inc_with_FF.png)
