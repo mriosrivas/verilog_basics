@@ -8,3 +8,5 @@ AND, AND16, Mux8Way16
 Latch y Flip-Flop
 
 Cada uno con su respectivo Testbench.
+
+Test ![Image](Inc_with_FF.png)
